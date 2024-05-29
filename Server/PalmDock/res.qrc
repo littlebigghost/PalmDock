@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/PalmDock-256.png</file>
+        <file>image/general_settings.png</file>
+        <file>image/interface_settings.png</file>
+        <file>image/table-export.png</file>
+        <file>image/table-import.png</file>
+    </qresource>
+</RCC>
